@@ -1,6 +1,8 @@
 # mailchimp-subscribe-unity3D
 This plugin integrates the subscribe to the list function of Mailchimp API into Unity3D.
 
+!! The logo trademark of Mailchimp have copyright and it's not provided under the terms of the license since it's from MailChimp company and i don't have any permission to use it !!
+
 Copyright (c) 2015 Monkimun Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
